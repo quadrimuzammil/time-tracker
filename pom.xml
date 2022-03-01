@@ -20,6 +20,8 @@
         <pmd.version>3.8</pmd.version>
         <checkstyle.version>2.17</checkstyle.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+             <sonar.url>http://ec2-3-6-126-212.ap-south-1.compute.amazonaws.com:9980/</sonar.url>
+             <sonar.login>92fcf232a8f8d43a763666733c66746e8faa552b</sonar.login>
     </properties>
 
     <modules>
